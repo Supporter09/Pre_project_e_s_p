@@ -21,6 +21,7 @@ import LandingPage from "views/examples/LandingPage.js";
 import ProfilePage from "views/examples/ProfilePage.js";
 import RegisterPage from "views/examples/RegisterPage.js";
 import AnimalDictionary from "views/examples/AnimalDictionary.js";
+import E_S_P_C_map from "views/examples/E_S_P_C_map.js";
 
 // pages tự làm 
 
@@ -28,7 +29,7 @@ import AnimalDictionary from "views/examples/AnimalDictionary.js";
 
 
 // others 
-
+import "../src/assets/js/FindingAnimal.js"
 
 ReactDOM.render(
   <BrowserRouter>
@@ -53,6 +54,10 @@ ReactDOM.render(
       <Route 
         path="/animals-dictionary"
         render={(props) => <AnimalDictionary {...props} />}
+      />
+      <Route
+      path="/animal-map"
+      render={(props) => <E_S_P_C_map {...props} />}
       />
       <Redirect to="/index" />
     </Switch>

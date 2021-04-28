@@ -10,7 +10,7 @@ using System.Net;
 using Mapbox.Vector.Tile;
 using System.Threading.Tasks;
 
-namespace FBI_Test_zone
+namespace BlazorDemo.Client
 {
     class Species
     {

@@ -23,13 +23,12 @@ import {
 
 // core components
 import ExamplesNavbar from "components/Navbars/ExamplesNavbar.js";
-import LandingPageHeader from "components/Headers/LandingPageHeader.js";
-import DictionaryHeader from "components/Headers/DictionaryHeader.js"
+import AnimalMapHeader from "components/Headers/AnimalMapHeader.js"
 import DemoFooter from "components/Footers/DemoFooter.js";
 import SectionCarousel from "../index-sections/SectionCarousel";
-import SpeciesCardDeck from "../../components/Cards/SpeciesCardDeck.js"
+import SpeciesCardDeck from "../../components/Cards/SpeciesCardDeck.js";
 
-function AnimalDictionary() {
+function E_S_P_C_map() {
   document.documentElement.classList.remove("nav-open");
   React.useEffect(() => {
     document.body.classList.add("animals-dictionary");
@@ -40,8 +39,7 @@ function AnimalDictionary() {
   return (
     <>
       <ExamplesNavbar />
-      <DictionaryHeader />
-      <SectionCarousel />
+      <AnimalMapHeader />
       
       <div className="main">
         <div className="section text-center">
@@ -157,4 +155,4 @@ function AnimalDictionary() {
   );
 }
 
-export default AnimalDictionary;
+export default E_S_P_C_map;

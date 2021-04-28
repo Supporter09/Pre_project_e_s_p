@@ -28,7 +28,7 @@ export default class SpeciesCard extends React.Component {
   return (
     <Col md="4" style={{marginTop:"10px"}}>
     <Card>
-
+    <CardImg top width="100%" src={this.props.image_src} alt="Species Imgae Here" />
     <CardBody >
         <CardTitle tag="h5"><b>Scientific Name: </b> {this.props.scientificName}</CardTitle>
         <CardTitle tag="h5"><b>Vietnamese Name: </b> {this.props.VNName}</CardTitle>
