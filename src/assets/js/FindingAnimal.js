@@ -46,16 +46,25 @@ export default function findSpeciesInArea(posX,posY)
         //         console.log(data);
         //         return data
         //     }
-        // })
-    $.ajax({
-            type:"GET",
-            dataType: "json",
-            url: 'https://projectespapi.herokuapp.com/checkExistFile?url='+url,
-            success: function(data){
-                // console.log(data);
-                return data
-            }
-        })
+        // })   
+         
+        // var result = fetch('https://projectespapi.herokuapp.com/checkExistFile?url='+url)
+        // .then(response => response.json())
+        // .then(files => _.chunk(files,100).map(cache.addAll))
+        // .catch(error => console.log(`Error caching file: ${error}`));
+        
+        setTimeout(()=>{
+            $.ajax({
+                type:"GET",
+                dataType: "json",
+                url: 'https://projectespapi.herokuapp.com/checkExistFile?url='+url,
+                success: function(data){
+                    // console.log(data);
+                    return data
+                }
+            })
+        },14000)
+        
     }
     var tiepGiap= new Array( );
     tiepGiap[0] = new Array (0,0);
