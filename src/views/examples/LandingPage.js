@@ -165,7 +165,7 @@ function LandingPage() {
                       <img
                         alt="..."
                         src={
-                          require("assets/img/faces/clem-onojeghuo-3.jpg")
+                          require("assets/img/faces/Minh.jpg")
                             .default
                         }
                       />
@@ -179,9 +179,7 @@ function LandingPage() {
                       </div>
                     </a>
                     <p className="card-description text-center">
-                      Teamwork is so important that it is virtually impossible
-                      for you to reach the heights of your capabilities or make
-                      the money that you want without becoming very good at it.
+                      Ăn, ăn , ngủ ,ngủ ,nghỉ ,nghỉ
                     </p>
                   </CardBody>
                   <CardFooter className="text-center">
@@ -219,7 +217,7 @@ function LandingPage() {
                       <img
                         alt="..."
                         src={
-                          require("assets/img/faces/clem-onojeghuo-3.jpg")
+                          require("assets/img/faces/Nghĩa.jpg")
                             .default
                         }
                       />
@@ -229,13 +227,11 @@ function LandingPage() {
                     <a href="#pablo" onClick={(e) => e.preventDefault()}>
                       <div className="author">
                         <CardTitle tag="h4">Nguyễn Nam Nghĩa</CardTitle>
-                        <h6 className="card-category">Product Manager</h6>
+                        <h6 className="card-category">Designer, Editor</h6>
                       </div>
                     </a>
                     <p className="card-description text-center">
-                      Teamwork is so important that it is virtually impossible
-                      for you to reach the heights of your capabilities or make
-                      the money that you want without becoming very good at it.
+                      Ăn ,ăn ,ngủ ,ngủ ,nghỉ ,nghỉ!
                     </p>
                   </CardBody>
                   <CardFooter className="text-center">
@@ -273,7 +269,7 @@ function LandingPage() {
                       <img
                         alt="..."
                         src={
-                          require("assets/img/faces/joe-gardner-2.jpg").default
+                          require("assets/img/faces/Tùng.jpg").default
                         }
                       />
                     </a>
@@ -282,14 +278,11 @@ function LandingPage() {
                     <a href="#pablo" onClick={(e) => e.preventDefault()}>
                       <div className="author">
                         <CardTitle tag="h4">Phùng Văn Tùng</CardTitle>
-                        <h6 className="card-category">Designer</h6>
+                        <h6 className="card-category">Developer</h6>
                       </div>
                     </a>
                     <p className="card-description text-center">
-                      A group becomes a team when each member is sure enough of
-                      himself and his contribution to praise the skill of the
-                      others. No one can whistle a symphony. It takes an
-                      orchestra to play it.
+                      Ăn ,ăn ,ngủ ,ngủ ,nghỉ ,nghỉ
                     </p>
                   </CardBody>
                   <CardFooter className="text-center">
@@ -327,7 +320,7 @@ function LandingPage() {
                       <img
                         alt="..."
                         src={
-                          require("assets/img/faces/erik-lucatero-2.jpg")
+                          require("assets/img/faces/Quang.jpg")
                             .default
                         }
                       />
@@ -341,10 +334,7 @@ function LandingPage() {
                       </div>
                     </a>
                     <p className="card-description text-center">
-                      The strength of the team is each individual member. The
-                      strength of each member is the team. If you can laugh
-                      together, you can work together, silence isn’t golden,
-                      it’s deadly.
+                      Ăn ,ăn ,ngủ ,nghỉ ,ngủ ,nghỉ.
                     </p>
                   </CardBody>
                   <CardFooter className="text-center">
