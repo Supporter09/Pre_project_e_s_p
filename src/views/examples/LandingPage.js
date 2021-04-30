@@ -83,7 +83,7 @@ function LandingPage() {
               <Col md="3">
                 <div className="info">
                   <div className="icon icon-info">
-                    <i className="nc-icon nc-album-2 " style={{fontSize:70}} />
+                    <i className="nc-icon nc-single-copy-04 " style={{fontSize:70}} />
                   </div>
                   <div className="description">
                     <h4 className="info-title" style={{marginTop:10}}>Species Dictionary</h4>
@@ -117,7 +117,7 @@ function LandingPage() {
               <Col md="3">
                 <div className="info">
                   <div className="icon icon-info">
-                    <i className="nc-icon nc-chart-bar-32" style={{fontSize:70}} />
+                    <i className="nc-icon nc-compass-05" style={{fontSize:70}} />
                   </div>
                   <div className="description">
                     <h4 className="info-title" style={{marginTop:10}}>Radar</h4>
