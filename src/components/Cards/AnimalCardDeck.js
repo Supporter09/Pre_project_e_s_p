@@ -111,15 +111,12 @@ export default class SpeciesCardDeck extends React.Component {
           <br />
           <br />
           <br />
-          <Row>
-          <CardDeck className="all_species">
+          
+          <CardDeck className="all_species" style ={{margin:"0"}}>
             <Row>
             {this.state.decks}
             </Row>
-            
-            
           </CardDeck>
-          </Row>
         </>
   );
     }

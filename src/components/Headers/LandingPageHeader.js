@@ -69,7 +69,7 @@ function LandingPageHeader() {
               Watch video
             </Button> */}
             <Button className="btn-round" color="neutral" type="button" outline>
-              Tìm hiểu thêm
+              Get Started
             </Button>
           </div>
         </Container>
