@@ -1,21 +1,4 @@
-/*!
 
-=========================================================
-* Paper Kit React - v1.3.0
-=========================================================
-
-* Product Page: https://www.creative-tim.com/product/paper-kit-react
-
-* Copyright 2021 Creative Tim (https://www.creative-tim.com)
-* Licensed under MIT (https://github.com/creativetimofficial/paper-kit-react/blob/main/LICENSE.md)
-
-* Coded by Creative Tim
-
-=========================================================
-
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-*/
 import React from "react";
 
 // reactstrap components
@@ -88,10 +71,9 @@ function LandingPage() {
                   <div className="description">
                     <h4 className="info-title" style={{marginTop:10}}>Species Dictionary</h4>
                     <p className="description">
-                      Spend your time generating new ideas. You don't have to
-                      think of implementing.
+                      Find, learn new knowledge about endangered species and protect them.
                     </p>
-                    <Button className="btn-link" color="info" href="#pablo">
+                    <Button className="btn-link" color="info" href="/animals-dictionary">
                       See more
                     </Button>
                   </div>
@@ -122,10 +104,9 @@ function LandingPage() {
                   <div className="description">
                     <h4 className="info-title" style={{marginTop:10}}>Radar</h4>
                     <p>
-                      Choose from a veriety of many colors resembling sugar
-                      paper pastels.
+                      Find and provide information about endangered species near your location. 
                     </p>
-                    <Button className="btn-link" color="info" href="#pablo">
+                    <Button className="btn-link" color="info" href="/animal-map">
                       See more
                     </Button>
                   </div>
