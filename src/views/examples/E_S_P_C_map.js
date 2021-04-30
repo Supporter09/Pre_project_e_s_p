@@ -26,7 +26,11 @@ import ExamplesNavbar from "components/Navbars/ExamplesNavbar.js";
 import AnimalMapHeader from "components/Headers/AnimalMapHeader.js"
 import DemoFooter from "components/Footers/DemoFooter.js";
 import SectionCarousel from "../index-sections/SectionCarousel";
-import SpeciesCardDeck from "../../components/Cards/SpeciesCardDeck.js";
+import AnimalCardDeck from "../../components/Cards/AnimalCardDeck.js";
+
+// Import JS file
+import findSpeciesInArea from '../../assets/js/FindingAnimal.js'
+
 
 function E_S_P_C_map() {
   document.documentElement.classList.remove("nav-open");
@@ -36,6 +40,7 @@ function E_S_P_C_map() {
       document.body.classList.remove("animals-dictionary");
     };
   });
+  
   return (
     <>
       <ExamplesNavbar />
@@ -44,60 +49,9 @@ function E_S_P_C_map() {
       <div className="main">
         <div className="section text-center">
           <Container>
-          <SpeciesCardDeck />
-            <Row>
-              <Col className="ml-auto mr-auto" md="10">
-                <h2 className="title">Search your animals data here.<i aria-hidden={true} className="nc-icon nc-zoom-split" /></h2>
-                
-              </Col>
-              <Col sm="6" md={{ size: 6, offset: 3 }}>
-                <InputGroup>
-                  <Input placeholder="Species" className="search_engine" type="text" />
-                  <InputGroupAddon addonType="append">
-                    <InputGroupText>
-                     
-                    </InputGroupText>
-                  </InputGroupAddon>
-                </InputGroup>
-              </Col>
-            </Row>
-            <br />
-            <br />
-            <br />
-            <Row>
-            <CardDeck className="all_species">
-              <Card>
-                <CardImg top width="100%" src="https://images.unsplash.com/photo-1544640808-32ca72ac7f37?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=675&q=80" alt="Card image cap" />
-                <CardBody>
-                  <CardTitle tag="h5">Card title</CardTitle>
-                  <CardSubtitle tag="h6" className="mb-2 text-muted">Card subtitle</CardSubtitle>
-                  <CardText>This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</CardText>
-                  <Button>Button</Button>
-                </CardBody>
-              </Card>
-              <Card>
-                <CardImg top width="100%" src="https://images.unsplash.com/photo-1568667256549-094345857637?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=658&q=80" alt="Card image cap" />
-                <CardBody>
-                  <CardTitle tag="h5">Card title</CardTitle>
-                  <CardSubtitle tag="h6" className="mb-2 text-muted">Card subtitle</CardSubtitle>
-                  <CardText>This card has supporting text below as a natural lead-in to additional content.</CardText>
-                  <Button>Button</Button>
-                </CardBody>
-              </Card>
-              <Card>
-                <CardImg top width="100%" src="https://images.unsplash.com/photo-1555116505-38ab61800975?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=675&q=80" alt="Card image cap" />
-                <CardBody>
-                  <CardTitle tag="h5">Card title</CardTitle>
-                  <CardSubtitle tag="h6" className="mb-2 text-muted">Card subtitle</CardSubtitle>
-                  <CardText>This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</CardText>
-                  <Button>Button</Button>
-                </CardBody>
-              </Card>
-            </CardDeck>
-            </Row>
-            <br />
-            <br />
-
+          <br/>
+          <br/>
+          <AnimalCardDeck/>
           </Container>
         </div>
         

@@ -1,0 +1,2150 @@
+[
+  {
+    "scientificName": "Pica pica serica Gould, 1845",
+    "usageKey": 8046751,
+    "status": "V",
+    "VNName": "Ác là"
+  },
+  {
+    "scientificName": "Pardofelis Severtzov, 1858",
+    "usageKey": 2435088,
+    "status": "V",
+    "VNName": "Báo gấm"
+  },
+  {
+    "scientificName": "Panthera pardus (Linnaeus, 1758)",
+    "usageKey": 5219436,
+    "status": "E",
+    "VNName": "Báo hoa mai Đông Dương"
+  },
+  {
+    "scientificName": "Catopuma temminckii (Vigors & Horsfield, 1827)",
+    "usageKey": 2435094,
+    "status": "E",
+    "VNName": "Báo lửa"
+  },
+  {
+    "scientificName": "Haliotis ovina Gmelin, 1791",
+    "usageKey": 4615974,
+    "status": "V",
+    "VNName": "Bào ngư hình bầu dục"
+  },
+  {
+    "scientificName": "Haliotis asinina Linnaeus, 1758",
+    "usageKey": 2293072,
+    "status": "V",
+    "VNName": "Bào ngư vành tai"
+  },
+  {
+    "scientificName": "Columba punicea Blyth, 1842",
+    "usageKey": 5231837,
+    "status": "T",
+    "VNName": "Bồ câu nâu"
+  },
+  {
+    "scientificName": "Caloenas nicobarica nicobarica",
+    "usageKey": 7191521,
+    "status": "T",
+    "VNName": "Bồ câu Nicoba"
+  },
+  {
+    "scientificName": "Phyllium siccifolium (Linnaeus, 1758)",
+    "usageKey": 9789296,
+    "status": "E",
+    "VNName": "Bọ lá"
+  },
+  {
+    "scientificName": "Mantis religiosa (Linne, 1758)",
+    "usageKey": 6258028,
+    "status": "V",
+    "VNName": "Bọ ngựa thông thường"
+  },
+  {
+    "scientificName": "Pelecanus philippensis Gmelin, 1789",
+    "usageKey": 5229163,
+    "status": "R",
+    "VNName": "Bồ nông chân xám"
+  },
+  {
+    "scientificName": "Bos javanicus d'Alton, 1823",
+    "usageKey": 2441027,
+    "status": "V",
+    "VNName": "Bò rừng"
+  },
+  {
+    "scientificName": "Bos gaurus C.H.Smith, 1827",
+    "usageKey": 2441026,
+    "status": "E",
+    "VNName": "Bò tót Đông Dương"
+  },
+  {
+    "scientificName": "Bos sauveli Urbain, 1937",
+    "usageKey": 2441018,
+    "status": "E",
+    "VNName": "Bò xám"
+  },
+  {
+    "scientificName": "Alcedo hercules Laubmann, 1917",
+    "usageKey": 2475519,
+    "status": "T",
+    "VNName": "Bồng chanh rừng"
+  },
+  {
+    "scientificName": "Argema maenas Doubleday, 1847",
+    "usageKey": 1867008,
+    "status": "R",
+    "VNName": "Bướm đuôi dài xanh lá chuối"
+  },
+  {
+    "scientificName": "Attacus atlas Linnaeus, 1758",
+    "usageKey": 5124716,
+    "status": "R",
+    "VNName": "Bướm khế"
+  },
+  {
+    "scientificName": "Lamproptera curius (Fabricius, 1787)",
+    "usageKey": 5141317,
+    "status": "T",
+    "VNName": "Bướm phượng cánh đuôi nheo"
+  },
+  {
+    "scientificName": "Pathysa Reakirt, 1864",
+    "usageKey": 1939400,
+    "status": "E",
+    "VNName": "Bướm phượng cánh kiếm"
+  },
+  {
+    "scientificName": "Troides helena (Linnaeus, 1758)",
+    "usageKey": 1936993,
+    "status": "E",
+    "VNName": "Bướm phượng cánh sau vàng"
+  },
+  {
+    "scientificName": "Semilabeo notabilis Peters, 1881",
+    "usageKey": 2359276,
+    "status": "V",
+    "VNName": "Cá anh vũ"
+  },
+  {
+    "scientificName": "Ateleopus japonicus Bleeker, 1853",
+    "usageKey": 5204668,
+    "status": "R",
+    "VNName": "Cá Atêlêôp Nhật Bản"
+  },
+  {
+    "scientificName": "Sinogastromyzon tonkinensis Pellegrin & Chevey, 1935",
+    "usageKey": 2358685,
+    "status": "R",
+    "VNName": "Cá bám đá liền"
+  },
+  {
+    "scientificName": "Psilocephalus barbatus (Gray, 1830)",
+    "usageKey": 5213466,
+    "status": "R",
+    "VNName": "Cá bò râu"
+  },
+  {
+    "scientificName": "Oxymonocanthus longirostris (Bloch & Schneider, 1801)",
+    "usageKey": 2406918,
+    "status": "R",
+    "VNName": "Cá bò xanh hoa đỏ"
+  },
+  {
+    "scientificName": "Bostrichthys sinensis (Lacepède, 1801)",
+    "usageKey": 2386459,
+    "status": "T",
+    "VNName": "Cá bống bớp"
+  },
+  {
+    "scientificName": "Elops saurus Linnaeus, 1766",
+    "usageKey": 5203145,
+    "status": "R",
+    "VNName": "Cá cháo biển"
+  },
+  {
+    "scientificName": "Megalops cyprinoides (Broussonet, 1782)",
+    "usageKey": 5203127,
+    "status": "R",
+    "VNName": "Cá cháo lớn"
+  },
+  {
+    "scientificName": "Satyrichthys rieffeli",
+    "usageKey": 2335037,
+    "status": "R",
+    "VNName": "Cá chào mào gai"
+  },
+  {
+    "scientificName": "Hilsa reevesii (Richardson, 1846)",
+    "usageKey": 2413391,
+    "status": "V",
+    "VNName": "Cá cháy"
+  },
+  {
+    "scientificName": "Spinibarbus caldwelli (Nichols, 1925)",
+    "usageKey": 2365459,
+    "status": "V",
+    "VNName": "Cá chày đất"
+  },
+  {
+    "scientificName": "Procypris merus Linnaeus, 1933",
+    "usageKey": 2365834,
+    "status": "E",
+    "VNName": "Cá chép gốc"
+  },
+  {
+    "scientificName": "Solenognathus hardwickii (Gray, 1830)",
+    "usageKey": 5200961,
+    "status": "T",
+    "VNName": "Cá chìa vôi không vây"
+  },
+  {
+    "scientificName": "Syngnathus acus Linnaeus, 1758",
+    "usageKey": 2332927,
+    "status": "V",
+    "VNName": "Cá chìa vôi mõm nhọn"
+  },
+  {
+    "scientificName": "Trachyrhamphus serratus (Temminck & Schlegel, 1850)",
+    "usageKey": 2333027,
+    "status": "V",
+    "VNName": "Cá chìa vôi mõm răng cưa"
+  },
+  {
+    "scientificName": "Bagarius bagarius (Hamilton, 1822)",
+    "usageKey": 2341206,
+    "status": "V",
+    "VNName": "Cá chiên"
+  },
+  {
+    "scientificName": "Anguilla marmorata Quoy & Gaimard, 1824",
+    "usageKey": 5213048,
+    "status": "R",
+    "VNName": "Cá chình hoa"
+  },
+  {
+    "scientificName": "Anguilla japonica Temminck & Schlegel, 1846",
+    "usageKey": 5213022,
+    "status": "E",
+    "VNName": "Cá chình Nhật Bản"
+  },
+  {
+    "scientificName": "Velifer hypselopterus Bleeker, 1879",
+    "usageKey": 2400592,
+    "status": "R",
+    "VNName": "Cá cờ Mặt Trăng"
+  },
+  {
+    "scientificName": "Paramesotriton deloustali (Bourret, 1934)",
+    "usageKey": 2431843,
+    "status": "E",
+    "VNName": "Cá cóc Tam Đảo"
+  },
+  {
+    "scientificName": "Notopterus chitala (Hamilton, 1822)",
+    "usageKey": 5212848,
+    "status": "T",
+    "VNName": "Cá còm"
+  },
+  {
+    "scientificName": "Lethocerus indicus (Le Peletier & Serville, 1825)",
+    "usageKey": 5866475,
+    "status": "R",
+    "VNName": "Cà cuống"
+  },
+  {
+    "scientificName": "Solenostomus paradoxus (Pallas, 1770)",
+    "usageKey": 5200920,
+    "status": "R",
+    "VNName": "Cá dao cạo"
+  },
+  {
+    "scientificName": "Pristis cuspidatus Latham, 1794",
+    "usageKey": 5216304,
+    "status": "R",
+    "VNName": "Cá đao răng ngựa"
+  },
+  {
+    "scientificName": "Pristis microdon Latham, 1794",
+    "usageKey": 5216285,
+    "status": "R",
+    "VNName": "Cá đao răng nhỏ"
+  },
+  {
+    "scientificName": "Zen cypho Fowler, 1934",
+    "usageKey": 2415294,
+    "status": "R",
+    "VNName": "Cá dây lưng gù"
+  },
+  {
+    "scientificName": "Zeus japonicus Valenciennes, 1835",
+    "usageKey": 5214862,
+    "status": "R",
+    "VNName": "Cá dây Nhật Bản"
+  },
+  {
+    "scientificName": "Narcine Henle, 1834",
+    "usageKey": 8405394,
+    "status": "R",
+    "VNName": "Cá đuối điện Bắc bộ"
+  },
+  {
+    "scientificName": "Cirrhinus microlepis Sauvage, 1878",
+    "usageKey": 5206472,
+    "status": "T",
+    "VNName": "Cá duồng bay"
+  },
+  {
+    "scientificName": "Cosmocheilus harmandi Sauvage, 1878",
+    "usageKey": 2362434,
+    "status": "T",
+    "VNName": "Cá duồng xanh"
+  },
+  {
+    "scientificName": "Morulius chrysophekadion (Bleeker, 1849)",
+    "usageKey": 2361830,
+    "status": "T",
+    "VNName": "Cá ét mọi"
+  },
+  {
+    "scientificName": "Rhina ancylostoma Bloch & Schneider, 1801",
+    "usageKey": 5963013,
+    "status": "T",
+    "VNName": "Cá giống mõm tròn"
+  },
+  {
+    "scientificName": "Catlocarpio siamensis Boulenger, 1898",
+    "usageKey": 2359467,
+    "status": "T",
+    "VNName": "Cá hô"
+  },
+  {
+    "scientificName": "Labeo tonkinensis (Pellegrin & Chevey, 1934)",
+    "usageKey": 5205950,
+    "status": "V",
+    "VNName": "Cá hoả"
+  },
+  {
+    "scientificName": "Datniodes quadrifasciatus (Sevastianof, 1809)",
+    "usageKey": 2391909,
+    "status": "R",
+    "VNName": "Cá hường sông"
+  },
+  {
+    "scientificName": "Schindleria praematura (Schindler, 1930)",
+    "usageKey": 5211950,
+    "status": "R",
+    "VNName": "Cá kim"
+  },
+  {
+    "scientificName": "Hemibagrus elongatus (Günther, 1864)",
+    "usageKey": 2338577,
+    "status": "V",
+    "VNName": "Cá lăng"
+  },
+  {
+    "scientificName": null,
+    "usageKey": 0,
+    "status": "E",
+    "VNName": "Cá lợ lớn"
+  },
+  {
+    "scientificName": "Channa micropeltes",
+    "usageKey": 2391455,
+    "status": "T",
+    "VNName": "Cá lóc bông"
+  },
+  {
+    "scientificName": "Antennarius melas Bleeker, 1857",
+    "usageKey": 5214820,
+    "status": "R",
+    "VNName": "Cá lưỡi dong"
+  },
+  {
+    "scientificName": "Luciocyprinus langsoni Vaillant, 1904",
+    "usageKey": 2363770,
+    "status": "V",
+    "VNName": "Cá măng giả"
+  },
+  {
+    "scientificName": "Toxotes chatareus (Hamilton, 1822)",
+    "usageKey": 2382430,
+    "status": "T",
+    "VNName": "Cá măng rổ"
+  },
+  {
+    "scientificName": "Chanos chanos (Forsskål, 1775)",
+    "usageKey": 2406374,
+    "status": "T",
+    "VNName": "Cá măng sữa"
+  },
+  {
+    "scientificName": "Carcharodon carcharias (Linnaeus, 1758)",
+    "usageKey": 2420694,
+    "status": "T",
+    "VNName": "Cá mập trắng lớn"
+  },
+  {
+    "scientificName": "Mola mola (Linnaeus, 1758)",
+    "usageKey": 5213725,
+    "status": "R",
+    "VNName": "Cá Mặt Trăng"
+  },
+  {
+    "scientificName": "Masturus lanceolatus (Liénard, 1840)",
+    "usageKey": 2407925,
+    "status": "T",
+    "VNName": "Cá Mặt Trăng đuôi nhọn"
+  },
+  {
+    "scientificName": "Gyrinocheilus aymonieri (Tirant, 1883)",
+    "usageKey": 2368346,
+    "status": "R",
+    "VNName": "Cá may"
+  },
+  {
+    "scientificName": "Clupanodon punctatus (Temminck & Schlegel, 1846)",
+    "usageKey": 2413042,
+    "status": "V",
+    "VNName": "Cá mòi chấm"
+  },
+  {
+    "scientificName": "Clupanodon thrissa (Linnaeus, 1758)",
+    "usageKey": 2412557,
+    "status": "V",
+    "VNName": "Cá mòi cờ"
+  },
+  {
+    "scientificName": "Albula vulpes (Linnaeus, 1758)",
+    "usageKey": 5204104,
+    "status": "R",
+    "VNName": "Cá mòi đường"
+  },
+  {
+    "scientificName": "Anodontostoma chacunda (Hamilton, 1822)",
+    "usageKey": 2413348,
+    "status": "E",
+    "VNName": "Cá mòi không răng"
+  },
+  {
+    "scientificName": "Nematalosa nasus (Bloch, 1795)",
+    "usageKey": 2413001,
+    "status": "E",
+    "VNName": "Cá mòi mõm tròn"
+  },
+  {
+    "scientificName": "Scleropages formosus (Müller & Schlegel, 1840)",
+    "usageKey": 2402231,
+    "status": "E",
+    "VNName": "Cá mơn"
+  },
+  {
+    "scientificName": "Dugong dugon (Müller, 1776)",
+    "usageKey": 9729967,
+    "status": "E",
+    "VNName": "Cá nàng tiên"
+  },
+  {
+    "scientificName": "Cranoglanis Peters, 1881",
+    "usageKey": 2344145,
+    "status": "V",
+    "VNName": "Cá ngạnh"
+  },
+  {
+    "scientificName": "Tor brevifilis (Peters, 1881)",
+    "usageKey": 2364284,
+    "status": "V",
+    "VNName": "Cá ngựa"
+  },
+  {
+    "scientificName": "Hippocampus trimaculatus Leach, 1814",
+    "usageKey": 5201089,
+    "status": "V",
+    "VNName": "Cá ngựa ba chấm"
+  },
+  {
+    "scientificName": "Hippocampus histrix Kaup, 1856",
+    "usageKey": 5201038,
+    "status": "V",
+    "VNName": "Cá ngựa gai"
+  },
+  {
+    "scientificName": "Hippocampus kelloggi Jordan & Snyder, 1901",
+    "usageKey": 5201145,
+    "status": "V",
+    "VNName": "Cá ngựa Kenlô"
+  },
+  {
+    "scientificName": "Hippocampus kuda Bleeker, 1852",
+    "usageKey": 5201037,
+    "status": "V",
+    "VNName": "Cá ngựa lớn"
+  },
+  {
+    "scientificName": "Hippocampus japonicus Kaup, 1856",
+    "usageKey": 5201100,
+    "status": "R",
+    "VNName": "Cá ngựa Nhật"
+  },
+  {
+    "scientificName": "Tor tambroides (Bleeker, 1854)",
+    "usageKey": 2364503,
+    "status": "V",
+    "VNName": "Cá ngựa xám"
+  },
+  {
+    "scientificName": "Alopias pelagicus Nakamura, 1935",
+    "usageKey": 2420809,
+    "status": "R",
+    "VNName": "Cá nhám đuôi dài"
+  },
+  {
+    "scientificName": "Cephaloscyllium umbratile Jordan & Fowler, 1903",
+    "usageKey": 2418641,
+    "status": "R",
+    "VNName": "Cá nhám lông nhung"
+  },
+  {
+    "scientificName": "Etmopterus lucifer Jordan & Snyder, 1902",
+    "usageKey": 2421047,
+    "status": "R",
+    "VNName": "Cá nhám nâu"
+  },
+  {
+    "scientificName": "Stegostoma fasciatum (Hermann, 1783)",
+    "usageKey": 2417450,
+    "status": "R",
+    "VNName": "Cá nhám nhu mì"
+  },
+  {
+    "scientificName": "Rhincodon typus Smith, 1828",
+    "usageKey": 2417522,
+    "status": "R",
+    "VNName": "Cá nhám voi"
+  },
+  {
+    "scientificName": "Labeo graffeuili (Pellegrin & Chevey, 1936)",
+    "usageKey": 5205951,
+    "status": "V",
+    "VNName": "Cá pạo"
+  },
+  {
+    "scientificName": "Altigena lemassoni (Pellegrin & Chevey, 1936)",
+    "usageKey": 2361261,
+    "status": "V",
+    "VNName": "Cá rầm xanh"
+  },
+  {
+    "scientificName": "Crocodylus porosus Schneider, 1801",
+    "usageKey": 2441333,
+    "status": "E",
+    "VNName": "Cá sấu hoa cà"
+  },
+  {
+    "scientificName": "Crocodylus siamensis Schneider, 1801",
+    "usageKey": 2441348,
+    "status": "E",
+    "VNName": "Cá sấu Xiêm"
+  },
+  {
+    "scientificName": "Onychostoma laticeps Günther, 1896",
+    "usageKey": 2365922,
+    "status": "V",
+    "VNName": "Cá sỉnh gai"
+  },
+  {
+    "scientificName": "Chimaera phantasma Jordan & Snyder, 1900",
+    "usageKey": 2417331,
+    "status": "E",
+    "VNName": "Cá toàn đầu"
+  },
+  {
+    "scientificName": "Pangasianodon gigas Chevey, 1931",
+    "usageKey": 2340710,
+    "status": "R",
+    "VNName": "Cá tra dầu"
+  },
+  {
+    "scientificName": "Probarbus jullieni Sauvage, 1880",
+    "usageKey": 2363810,
+    "status": "T",
+    "VNName": "Cá trà sóc"
+  },
+  {
+    "scientificName": "Kerria lacca",
+    "usageKey": 5812747,
+    "status": "V",
+    "VNName": "Cánh kiến đỏ"
+  },
+  {
+    "scientificName": "Vulpes vulpes (Linnaeus, 1758)",
+    "usageKey": 5219243,
+    "status": "E",
+    "VNName": "Cáo"
+  },
+  {
+    "scientificName": "Heterocentrotus mammillatus (Linnaeus, 1758)",
+    "usageKey": 2278866,
+    "status": "V",
+    "VNName": "Cầu gai đá"
+  },
+  {
+    "scientificName": "Cynocephalus variegatus (Audebert, 1799)",
+    "usageKey": 5218413,
+    "status": "R",
+    "VNName": "Chồn bay"
+  },
+  {
+    "scientificName": "Prionodon pardicolor Hodgson, 1842",
+    "usageKey": 5963054,
+    "status": "R",
+    "VNName": "Cầy gấm"
+  },
+  {
+    "scientificName": "Viverra megaspila Blyth, 1862",
+    "usageKey": 5219333,
+    "status": "E",
+    "VNName": "Cầy giông sọc"
+  },
+  {
+    "scientificName": "Viverra tainguensis Sokolov, Rozhnov & Pham Chong Anh, 1997",
+    "usageKey": 5787257,
+    "status": "V",
+    "VNName": "Cầy giông Tây Nguyên"
+  },
+  {
+    "scientificName": "Arctictis binturong",
+    "usageKey": 2434615,
+    "status": "V",
+    "VNName": "Cầy mực"
+  },
+  {
+    "scientificName": "Cynogale lowei Pocock, 1933",
+    "usageKey": 8547190,
+    "status": "E",
+    "VNName": "Cầy rái cá"
+  },
+  {
+    "scientificName": "Arctogalidia trivirgata (Gray, 1832)",
+    "usageKey": 2434742,
+    "status": "R",
+    "VNName": "Cầy tai trắng"
+  },
+  {
+    "scientificName": "Hemigalus owstoni (Thomas, 1912)",
+    "usageKey": 11056140,
+    "status": "V",
+    "VNName": "Cầy vằn bắc"
+  },
+  {
+    "scientificName": "Heliopais personatus (G.R.Gray, 1849)",
+    "usageKey": 2474351,
+    "status": "R",
+    "VNName": "Chân bơi"
+  },
+  {
+    "scientificName": "Tragulus javanicus (Osbeck, 1765)",
+    "usageKey": 5220187,
+    "status": "V",
+    "VNName": "Cheo cheo Nam Dương"
+  },
+  {
+    "scientificName": "Tragulus napu (F.Cuvier, 1822)",
+    "usageKey": 5220186,
+    "status": "E",
+    "VNName": "Cheo cheo Napu"
+  },
+  {
+    "scientificName": "Sula leucogaster plotus (J.R.Forster, 1844)",
+    "usageKey": 9774240,
+    "status": "T",
+    "VNName": "Chim điên bụng trắng"
+  },
+  {
+    "scientificName": "Collocalia G.R.Gray, 1840",
+    "usageKey": 2477291,
+    "status": "T",
+    "VNName": "Chim yến hàng"
+  },
+  {
+    "scientificName": "Collocalia G.R.Gray, 1840",
+    "usageKey": 2477291,
+    "status": "R",
+    "VNName": "Chim yến núi"
+  },
+  {
+    "scientificName": "Canis aureus Linnaeus, 1758",
+    "usageKey": 5219219,
+    "status": "E",
+    "VNName": "Chó rừng Xiêm"
+  },
+  {
+    "scientificName": "Limnodromus semipalmatus (Blyth, 1848)",
+    "usageKey": 2481671,
+    "status": "R",
+    "VNName": "Choắt chân màng lớn"
+  },
+  {
+    "scientificName": "Typhlomys cinereus Milne-Edwards, 1877",
+    "usageKey": 2437710,
+    "status": "R",
+    "VNName": "Chuột mù"
+  },
+  {
+    "scientificName": "Vandeleuria oleracea (Bennett, 1832)",
+    "usageKey": 2439081,
+    "status": "R",
+    "VNName": "Chuột nhắt cây"
+  },
+  {
+    "scientificName": "Xenorhynchus asiaticus (Latham, 1790)",
+    "usageKey": 6066547,
+    "status": "E",
+    "VNName": "Hạc cổ đen"
+  },
+  {
+    "scientificName": "Mycteria leucocephala (Pennant, 1769)",
+    "usageKey": 2481938,
+    "status": "R",
+    "VNName": "Giang sen (Cò lạo Ấn Độ)"
+  },
+  {
+    "scientificName": "Mycteria cinerea (Raffles, 1822)",
+    "usageKey": 2481935,
+    "status": "V",
+    "VNName": "Cò lạo xám"
+  },
+  {
+    "scientificName": "Anastomus oscitans (Boddaert, 1783)",
+    "usageKey": 5229410,
+    "status": "R",
+    "VNName": "Cò nhạn"
+  },
+  {
+    "scientificName": "Pseudibis davisoni (Hume, 1875)",
+    "usageKey": 2480777,
+    "status": "V",
+    "VNName": "Cò quăm cánh xanh"
+  },
+  {
+    "scientificName": "Pseudibis gigantea (Oustalet, 1877)",
+    "usageKey": 2480779,
+    "status": "E",
+    "VNName": "Cò quăm lớn"
+  },
+  {
+    "scientificName": "Platalea minor Temminck & Schlegel, 1849",
+    "usageKey": 2480805,
+    "status": "R",
+    "VNName": "Cò thìa mặt đen"
+  },
+  {
+    "scientificName": "Fregata andrewsi Mathews, 1914",
+    "usageKey": 2480185,
+    "status": "V",
+    "VNName": "Cốc biển bụng trắng"
+  },
+  {
+    "scientificName": "Phalacrocorax carbo sinensis (Blumenbach, 1798)",
+    "usageKey": 4408474,
+    "status": "R",
+    "VNName": "Cốc đế"
+  },
+  {
+    "scientificName": "Xenophrys longipes",
+    "usageKey": 2424748,
+    "status": "T",
+    "VNName": "Cóc gai mắt"
+  },
+  {
+    "scientificName": "Megophrys palpebralespinosa Bourret, 1937",
+    "usageKey": 5785618,
+    "status": "R",
+    "VNName": "Cóc mày gai núi"
+  },
+  {
+    "scientificName": "Megophrys feae Boulenger, 1887",
+    "usageKey": 10743637,
+    "status": "R",
+    "VNName": "Cóc mày phê"
+  },
+  {
+    "scientificName": "Bufo galeatus Günther, 1864",
+    "usageKey": 5216581,
+    "status": "R",
+    "VNName": "Cóc rừng"
+  },
+  {
+    "scientificName": "Bombina maxima (Boulenger, 1905)",
+    "usageKey": 2423437,
+    "status": "V",
+    "VNName": "Cóc tía"
+  },
+  {
+    "scientificName": "Pavo muticus imperator Delacour, 1949",
+    "usageKey": 6180124,
+    "status": "E",
+    "VNName": "Công lục Java"
+  },
+  {
+    "scientificName": "Nycticebus coucang (Boddaert, 1785)",
+    "usageKey": 2436629,
+    "status": "V",
+    "VNName": "Cu li lớn"
+  },
+  {
+    "scientificName": "Nycticebus pygmaeus Bonhote, 1907",
+    "usageKey": 2436628,
+    "status": "V",
+    "VNName": "Cu li nhỏ"
+  },
+  {
+    "scientificName": "Phodilus badius saturatus Robinson, 1927",
+    "usageKey": 6176258,
+    "status": "T",
+    "VNName": "Cú lợn rừng"
+  },
+  {
+    "scientificName": "Treron seimundi modestus (Delacour, 1926)",
+    "usageKey": 6179552,
+    "status": "R",
+    "VNName": "Cu xanh Seimun"
+  },
+  {
+    "scientificName": "Tiwaripotamon annamense (Balss, 1914)",
+    "usageKey": 5790373,
+    "status": "R",
+    "VNName": "Cua núi An nam"
+  },
+  {
+    "scientificName": "Potamiscus Alcock, 1909",
+    "usageKey": 4645188,
+    "status": "R",
+    "VNName": "Cua núi Cúc Phương"
+  },
+  {
+    "scientificName": "Ranguna kimboiense Dang, 1975",
+    "usageKey": 5973227,
+    "status": "R",
+    "VNName": "Cua núi Kim Bôi"
+  },
+  {
+    "scientificName": "Hainanpotamon glabrum (Dang, 1967)",
+    "usageKey": 5790152,
+    "status": "R",
+    "VNName": "Cua núi mai nhẵn"
+  },
+  {
+    "scientificName": "Potamiscus Alcock, 1909",
+    "usageKey": 4645188,
+    "status": "R",
+    "VNName": "Cua núi mai ráp"
+  },
+  {
+    "scientificName": "Ranguna Bott, 1966",
+    "usageKey": 4645189,
+    "status": "R",
+    "VNName": "Cua núi Phúc Sơn"
+  },
+  {
+    "scientificName": "Aipysurus eydouxii (Gray, 1849)",
+    "usageKey": 2450120,
+    "status": "V",
+    "VNName": "Đẹn đuôi gai"
+  },
+  {
+    "scientificName": "Enhydrina schistosa Stoliczka, 1870",
+    "usageKey": 8370957,
+    "status": "V",
+    "VNName": "Đẹn mỏ"
+  },
+  {
+    "scientificName": "Thalassophis viperina Schmidt, 1852",
+    "usageKey": 2449471,
+    "status": "V",
+    "VNName": "Đẹn vảy bụng không đều"
+  },
+  {
+    "scientificName": "Harpiocephalus harpia (Temminck, 1840)",
+    "usageKey": 2432380,
+    "status": "R",
+    "VNName": "Dơi cánh lông"
+  },
+  {
+    "scientificName": "Cynopterus brachyotis (Müller, 1838)",
+    "usageKey": 2432837,
+    "status": "R",
+    "VNName": "Dơi chó tai ngắn"
+  },
+  {
+    "scientificName": "Ia io Thomas, 1902",
+    "usageKey": 2432577,
+    "status": "R",
+    "VNName": "Dơi io"
+  },
+  {
+    "scientificName": "Rhinolophus paradoxolophus (Bourret, 1951)",
+    "usageKey": 2432671,
+    "status": "R",
+    "VNName": "Dơi lá quạt"
+  },
+  {
+    "scientificName": "Rhinolophus borneensis Peters, 1861",
+    "usageKey": 2432654,
+    "status": "R",
+    "VNName": "Dơi lá Sa đen"
+  },
+  {
+    "scientificName": "Eretmochelys imbricata (Linnaeus, 1766)",
+    "usageKey": 8841716,
+    "status": "E",
+    "VNName": "Đồi mồi"
+  },
+  {
+    "scientificName": "Chelonia mydas (Linnaeus, 1758)",
+    "usageKey": 2442225,
+    "status": "E",
+    "VNName": "Đồi mồi dứa"
+  },
+  {
+    "scientificName": "Hipposideros nequam K.Andersen, 1918",
+    "usageKey": 5218576,
+    "status": "R",
+    "VNName": "Dơi mũi Nêquam"
+  },
+  {
+    "scientificName": "Myotis siligorensis (Horsfield, 1855)",
+    "usageKey": 2432449,
+    "status": "R",
+    "VNName": "Dơi tai Siligô"
+  },
+  {
+    "scientificName": "Coelops frithii Blyth, 1848",
+    "usageKey": 7261697,
+    "status": "R",
+    "VNName": "Dơi thùy Frit"
+  },
+  {
+    "scientificName": "Paracoelops megalotis Dorst, 1947",
+    "usageKey": 2432604,
+    "status": "R",
+    "VNName": "Dơi thùy tai to"
+  },
+  {
+    "scientificName": "Ketupa zeylonensis orientalis Delacour, 1926",
+    "usageKey": 6176209,
+    "status": "T",
+    "VNName": "Dù dì phương đông"
+  },
+  {
+    "scientificName": "Pitta nympha Temminck & Schlegel, 1850",
+    "usageKey": 2489521,
+    "status": "R",
+    "VNName": "Đuôi cụt bụng đỏ"
+  },
+  {
+    "scientificName": "Pitta elliotii Oustalet, 1874",
+    "usageKey": 2489545,
+    "status": "T",
+    "VNName": "Đuôi cụt bụng vằn"
+  },
+  {
+    "scientificName": "Pitta cyanea willoughbyi Delacour, 1926",
+    "usageKey": 6171958,
+    "status": "R",
+    "VNName": "Đuôi cụt đầu đỏ"
+  },
+  {
+    "scientificName": "Pitta phayrei (Blyth, 1862)",
+    "usageKey": 2489567,
+    "status": "R",
+    "VNName": "Đuôi cụt nâu"
+  },
+  {
+    "scientificName": "Rana spinosa David, 1875",
+    "usageKey": 2430532,
+    "status": "T",
+    "VNName": "Ếch gai"
+  },
+  {
+    "scientificName": "Ichthyophis glutinosus (Linnaeus, 1758)",
+    "usageKey": 5218320,
+    "status": "V",
+    "VNName": "Ếch giun"
+  },
+  {
+    "scientificName": "Rana microlineata Bourret, 1937",
+    "usageKey": 2430309,
+    "status": "T",
+    "VNName": "Ếch vạch"
+  },
+  {
+    "scientificName": "Rana andersonii Boulenger, 1882",
+    "usageKey": 2427296,
+    "status": "T",
+    "VNName": "Ếch xanh"
+  },
+  {
+    "scientificName": "Lophura diardi (Bonaparte, 1856)",
+    "usageKey": 5227987,
+    "status": "T",
+    "VNName": "Gà lôi hông tía"
+  },
+  {
+    "scientificName": "Lophura hatinhensis Vo Quy, 1975",
+    "usageKey": 5227992,
+    "status": "E",
+    "VNName": "Gà lôi lam đuôi trắng"
+  },
+  {
+    "scientificName": "Lophura imperialis (Delacour & Jabouille, 1924)",
+    "usageKey": 5227986,
+    "status": "E",
+    "VNName": "Gà lôi lam mào đen"
+  },
+  {
+    "scientificName": "Lophura edwardsi (Oustalet, 1896)",
+    "usageKey": 5227960,
+    "status": "E",
+    "VNName": "Gà lôi lam mào trắng"
+  },
+  {
+    "scientificName": "Tragopan Cuvier, 1829",
+    "usageKey": 2473538,
+    "status": "R",
+    "VNName": "Gà lôi tía"
+  },
+  {
+    "scientificName": "Lophura nycthemera (Linnaeus, 1758)",
+    "usageKey": 5227966,
+    "status": "T",
+    "VNName": "Gà lôi trắng"
+  },
+  {
+    "scientificName": "Arborophila davidi Delacour, 1927",
+    "usageKey": 2473641,
+    "status": "E",
+    "VNName": "Gà so cổ hung"
+  },
+  {
+    "scientificName": "Polyplectron germaini Elliot, 1866",
+    "usageKey": 2474078,
+    "status": "T",
+    "VNName": "Gà tiền mặt đỏ"
+  },
+  {
+    "scientificName": "Ursus malayanus Raffles, 1821",
+    "usageKey": 4970092,
+    "status": "E",
+    "VNName": "Gấu chó"
+  },
+  {
+    "scientificName": "Ursus thibetanus G.Cuvier, 1823",
+    "usageKey": 2433425,
+    "status": "E",
+    "VNName": "Gấu ngựa"
+  },
+  {
+    "scientificName": "Leptoptilos javanicus (Horsfield, 1821)",
+    "usageKey": 2481947,
+    "status": "R",
+    "VNName": "Già đẫy Java"
+  },
+  {
+    "scientificName": "Leptoptilos dubius (Gmelin, 1789)",
+    "usageKey": 2481945,
+    "status": "E",
+    "VNName": "Già đẫy lớn"
+  },
+  {
+    "scientificName": "Pelochelys bibroni Owen, 1853",
+    "usageKey": 8571946,
+    "status": "V",
+    "VNName": "Giải"
+  },
+  {
+    "scientificName": "Pheretima anomala Michaelsen, 1907",
+    "usageKey": 9115276,
+    "status": "T",
+    "VNName": "Giun lạ"
+  },
+  {
+    "scientificName": "Pheretima perelae Thai, 1982",
+    "usageKey": 9458330,
+    "status": "T",
+    "VNName": "Giun xanh"
+  },
+  {
+    "scientificName": "Picus rabieri (Oustalet, 1898)",
+    "usageKey": 2478511,
+    "status": "T",
+    "VNName": "Gõ kiến xanh đầu đỏ"
+  },
+  {
+    "scientificName": "Ciconia episcopus (Boddaert, 1783)",
+    "usageKey": 2481918,
+    "status": "R",
+    "VNName": "Hạc cổ trắng"
+  },
+  {
+    "scientificName": "Thelenota ananas (Jaeger, 1833)",
+    "usageKey": 4343232,
+    "status": "E",
+    "VNName": "Hải sâm lựu"
+  },
+  {
+    "scientificName": "Actinopyga echinites (Jaeger, 1833)",
+    "usageKey": 2279192,
+    "status": "V",
+    "VNName": "Hải sâm mít"
+  },
+  {
+    "scientificName": "Actinopyga mauritiana (Quoy & Gaimard, 1834)",
+    "usageKey": 4343105,
+    "status": "V",
+    "VNName": "Hải sâm mít hoa"
+  },
+  {
+    "scientificName": "Microthele nobilis (Selenka, 1867)",
+    "usageKey": 2279195,
+    "status": "E",
+    "VNName": "Hải sâm vú"
+  },
+  {
+    "scientificName": "Tapirus indicus Desmarest, 1819",
+    "usageKey": 2440896,
+    "status": "E",
+    "VNName": "Heo vòi"
+  },
+  {
+    "scientificName": "Panthera tigris (Linnaeus, 1758)",
+    "usageKey": 5219416,
+    "status": "E",
+    "VNName": "Hổ Đông Dương"
+  },
+  {
+    "scientificName": "Rhacophorus nigropalmatus feae Boulenger, 1893",
+    "usageKey": 11086370,
+    "status": "T",
+    "VNName": "Hoặn lớn"
+  },
+  {
+    "scientificName": "Muntiacus muntjak annamensis Kloss, 1928",
+    "usageKey": 4262420,
+    "status": "V",
+    "VNName": "Hoẵng Nam bộ"
+  },
+  {
+    "scientificName": "Buceros bicornis Linnaeus, 1758",
+    "usageKey": 2476012,
+    "status": "T",
+    "VNName": "Hồng hoàng"
+  },
+  {
+    "scientificName": "Strix leptogrammica laotiana Delacour, 1926",
+    "usageKey": 6176068,
+    "status": "R",
+    "VNName": "Hù lào"
+  },
+  {
+    "scientificName": "Strix leptogrammica ticehursti Delacour, 1930",
+    "usageKey": 6176066,
+    "status": "R",
+    "VNName": "Hù lưng nâu"
+  },
+  {
+    "scientificName": "Cervus nippon Temminck, 1838",
+    "usageKey": 2440954,
+    "status": "V",
+    "VNName": "Hươu sao Việt Nam"
+  },
+  {
+    "scientificName": "Cervus porcinus Zimmermann, 1780",
+    "usageKey": 4835570,
+    "status": "E",
+    "VNName": "Hươu vàng"
+  },
+  {
+    "scientificName": "Moschus berezovskii Flerov, 1929",
+    "usageKey": 2440991,
+    "status": "E",
+    "VNName": "Hươu xạ Cao Bằng"
+  },
+  {
+    "scientificName": "Temnurus temnurus (Temminck, 1825)",
+    "usageKey": 5229499,
+    "status": "T",
+    "VNName": "Khách đuôi cờ"
+  },
+  {
+    "scientificName": "Macaca nemestrina (Linnaeus, 1766)",
+    "usageKey": 2436611,
+    "status": "V",
+    "VNName": "Khỉ đuôi lợn"
+  },
+  {
+    "scientificName": "Macaca arctoides (I.Geoffroy Saint-Hilaire, 1831)",
+    "usageKey": 2436605,
+    "status": "V",
+    "VNName": "Khỉ mặt đỏ (khỉ cộc)"
+  },
+  {
+    "scientificName": "Macaca assamensis (McClelland, 1840)",
+    "usageKey": 2436610,
+    "status": "V",
+    "VNName": "Khỉ mốc miền Đông"
+  },
+  {
+    "scientificName": "Garrulax milleti Robinson & Kloss, 1919",
+    "usageKey": 2493476,
+    "status": "R",
+    "VNName": "Khướu đầu đen"
+  },
+  {
+    "scientificName": "Garrulax yersini (Robinson & Kloss, 1919)",
+    "usageKey": 2493473,
+    "status": "R",
+    "VNName": "Khướu đầu đen má xám"
+  },
+  {
+    "scientificName": "Garrulax vassali (Ogilvie-Grant, 1906)",
+    "usageKey": 2493445,
+    "status": "T",
+    "VNName": "Khướu đầu xám"
+  },
+  {
+    "scientificName": "Garrulax formosus (J.Verreaux, 1869)",
+    "usageKey": 2493487,
+    "status": "R",
+    "VNName": "Khướu đuôi đỏ"
+  },
+  {
+    "scientificName": "Jabouilleia danjoui (Robinson & Kloss, 1919)",
+    "usageKey": 2493040,
+    "status": "T",
+    "VNName": "Khướu mỏ dài"
+  },
+  {
+    "scientificName": "Paradoxornis davidianus (Slater, 1897)",
+    "usageKey": 2493514,
+    "status": "T",
+    "VNName": "Khướu mỏ dẹt lưng đen"
+  },
+  {
+    "scientificName": "Paradoxornis ruficeps Blyth, 1842",
+    "usageKey": 2493523,
+    "status": "T",
+    "VNName": "Khướu mỏ dẹt to"
+  },
+  {
+    "scientificName": "Garrulax merulinus Blyth, 1851",
+    "usageKey": 2493485,
+    "status": "R",
+    "VNName": "Khướu ngực đốm"
+  },
+  {
+    "scientificName": "Garrulax squamatus (Gould, 1835)",
+    "usageKey": 2493442,
+    "status": "R",
+    "VNName": "Khướu vẩy"
+  },
+  {
+    "scientificName": "Garrulax maesi maesi",
+    "usageKey": 6088429,
+    "status": "T",
+    "VNName": "Khướu xám"
+  },
+  {
+    "scientificName": "Varanus salvator (Laurenti, 1768)",
+    "usageKey": 2470685,
+    "status": "V",
+    "VNName": "Kỳ đà hoa"
+  },
+  {
+    "scientificName": "Varanus bengalensis nebulosus Mertens, 1942",
+    "usageKey": 6160032,
+    "status": "V",
+    "VNName": "Kỳ đà vân"
+  },
+  {
+    "scientificName": "Nettapus coromandelianus coromandelianus",
+    "usageKey": 6178311,
+    "status": "T",
+    "VNName": "Le khoang cổ"
+  },
+  {
+    "scientificName": "Megamuntiacus vuquangensis Do Tuoc, Vu Van Dung, Dawson, Arctander & Mackinnon, 1994",
+    "usageKey": 4835595,
+    "status": "V",
+    "VNName": "Mang lớn"
+  },
+  {
+    "scientificName": "Prionailurus viverrinus (Bennett, 1833)",
+    "usageKey": 2434899,
+    "status": "R",
+    "VNName": "Mèo cá"
+  },
+  {
+    "scientificName": "Pardofelis marmorata (Martin, 1837)",
+    "usageKey": 2435089,
+    "status": "V",
+    "VNName": "Mèo gấm"
+  },
+  {
+    "scientificName": "Felis chaus Guldenstaedt, 1776",
+    "usageKey": 9011947,
+    "status": "E",
+    "VNName": "Mèo ri"
+  },
+  {
+    "scientificName": "Crocias langbianis Gyldenstolpe, 1939",
+    "usageKey": 5231339,
+    "status": "E",
+    "VNName": "Mi Langbian"
+  },
+  {
+    "scientificName": "Corydon sumatranus (Raffles, 1822)",
+    "usageKey": 5229948,
+    "status": "R",
+    "VNName": "Mỏ rộng đen"
+  },
+  {
+    "scientificName": "Psarisomus dalhousiae dalhousiae",
+    "usageKey": 7191598,
+    "status": "T",
+    "VNName": "Mỏ rộng xanh"
+  },
+  {
+    "scientificName": "Calyptomena viridis Raffles, 1822",
+    "usageKey": 2484559,
+    "status": "R",
+    "VNName": "Mỏ rộng xồm"
+  },
+  {
+    "scientificName": "Larus saundersi (Swinhoe, 1871)",
+    "usageKey": 2481145,
+    "status": "R",
+    "VNName": "Mòng bể mỏ đen"
+  },
+  {
+    "scientificName": "Cervus eldi M'Clelland, 1842",
+    "usageKey": 10665555,
+    "status": "E",
+    "VNName": "Nai cà tông Xiêm"
+  },
+  {
+    "scientificName": "Cairina scutulata (S.Muller, 1842)",
+    "usageKey": 2498184,
+    "status": "V",
+    "VNName": "Ngan cánh trắng"
+  },
+  {
+    "scientificName": "Anous stolidus pileatus (Scopoli, 1786)",
+    "usageKey": 5793221,
+    "status": "T",
+    "VNName": "Nhàn đầu xám"
+  },
+  {
+    "scientificName": "Sterna bergii cristatus Stephens, 1826",
+    "usageKey": 6486596,
+    "status": "E",
+    "VNName": "Nhàn mào"
+  },
+  {
+    "scientificName": "Leiolepis guttata Cuvier, 1829",
+    "usageKey": 5960766,
+    "status": "T",
+    "VNName": "Nhông cát Gutta"
+  },
+  {
+    "scientificName": "Aceros nipalensis (Hodgson, 1829)",
+    "usageKey": 5228459,
+    "status": "E",
+    "VNName": "Niệc cổ hung"
+  },
+  {
+    "scientificName": "Berenicornis comatus (Raffles, 1822)",
+    "usageKey": 2476030,
+    "status": "E",
+    "VNName": "Niệc đầu trắng"
+  },
+  {
+    "scientificName": "Rhyticeros undulatus (Shaw, 1811)",
+    "usageKey": 2475916,
+    "status": "T",
+    "VNName": "Niệc mỏ vằn"
+  },
+  {
+    "scientificName": "Ptilolaemus Ogilvie-Grant, 1892",
+    "usageKey": 4843784,
+    "status": "T",
+    "VNName": "Niệc nâu"
+  },
+  {
+    "scientificName": "Acanthosaura lepidogaster (Cuvier, 1829)",
+    "usageKey": 5960744,
+    "status": "T",
+    "VNName": "Ô rô vẩy"
+  },
+  {
+    "scientificName": "Eupodotis bengalensis (Gmelin, 1789)",
+    "usageKey": 2474857,
+    "status": "V",
+    "VNName": "Ô tác"
+  },
+  {
+    "scientificName": "Nautilus pompilius Linnaeus, 1758",
+    "usageKey": 2289202,
+    "status": "E",
+    "VNName": "Ốc anh vũ"
+  },
+  {
+    "scientificName": "Cypraea mappa Linnaeus, 1758",
+    "usageKey": 4360894,
+    "status": "T",
+    "VNName": "Ốc bản đồ"
+  },
+  {
+    "scientificName": "Tectus niloticus (Linnaeus, 1767)",
+    "usageKey": 4615615,
+    "status": "E",
+    "VNName": "Ốc đụn cái"
+  },
+  {
+    "scientificName": "Trochus pyramis Born, 1778",
+    "usageKey": 9408635,
+    "status": "E",
+    "VNName": "Ốc đụn đực"
+  },
+  {
+    "scientificName": "Cypraea testudinaria Linnaeus, 1758",
+    "usageKey": 7828021,
+    "status": "T",
+    "VNName": "Ốc heo"
+  },
+  {
+    "scientificName": "Cassis cornuta (Linnaeus, 1758)",
+    "usageKey": 5192350,
+    "status": "V",
+    "VNName": "Ốc kim khôi"
+  },
+  {
+    "scientificName": "Cypraecassis rufa (Linnaeus, 1758)",
+    "usageKey": 4360476,
+    "status": "E",
+    "VNName": "Ốc kim khôi đỏ"
+  },
+  {
+    "scientificName": "Cypraea scurra Gmelin, 1791",
+    "usageKey": 4360800,
+    "status": "R",
+    "VNName": "Ốc sứ Cura"
+  },
+  {
+    "scientificName": "Cypraea histrio Gmelin, 1791",
+    "usageKey": 4360908,
+    "status": "R",
+    "VNName": "Ốc sứ Hiti"
+  },
+  {
+    "scientificName": null,
+    "usageKey": 0,
+    "status": "R",
+    "VNName": "Ốc sứ Lắc tê"
+  },
+  {
+    "scientificName": "Cypraea argus Linnaeus, 1758",
+    "usageKey": 4360855,
+    "status": "R",
+    "VNName": "Ốc sứ mắt trĩ"
+  },
+  {
+    "scientificName": "Cypraea spadicea Swainson, 1823",
+    "usageKey": 2301248,
+    "status": "R",
+    "VNName": "Ốc sứ Padi"
+  },
+  {
+    "scientificName": "Ovula costellata Lamarck, 1810",
+    "usageKey": 5192700,
+    "status": "R",
+    "VNName": "Ốc sứ trắng nhỏ"
+  },
+  {
+    "scientificName": null,
+    "usageKey": 0,
+    "status": "T",
+    "VNName": "Ốc sứ Trung Hoa"
+  },
+  {
+    "scientificName": "Cypraea turdus Lamarck, 1810",
+    "usageKey": 4360886,
+    "status": "R",
+    "VNName": "Ốc sứ Tuđu"
+  },
+  {
+    "scientificName": "Calpurnus verrucosus (Linnaeus, 1758)",
+    "usageKey": 4361039,
+    "status": "T",
+    "VNName": "Ốc sứ Veru"
+  },
+  {
+    "scientificName": "Charonia tritonis (Linnaeus, 1758)",
+    "usageKey": 5192644,
+    "status": "V",
+    "VNName": "Ốc tù và"
+  },
+  {
+    "scientificName": "Stenomelania P.Fischer, 1885",
+    "usageKey": 4612208,
+    "status": "V",
+    "VNName": "Ốc vặn hình côn"
+  },
+  {
+    "scientificName": "Antimelania swinhoei (H.Adams, 1870)",
+    "usageKey": 11004053,
+    "status": "V",
+    "VNName": "Ốc vặn hình tháp"
+  },
+  {
+    "scientificName": "Sulcospira Troschel, 1858",
+    "usageKey": 4608242,
+    "status": "R",
+    "VNName": "Ốc vặn vệt nâu"
+  },
+  {
+    "scientificName": "Turbo marmoratus Linnaeus, 1758",
+    "usageKey": 4358544,
+    "status": "E",
+    "VNName": "Ốc xà cừ"
+  },
+  {
+    "scientificName": "Epitonium scalare (Linnaeus, 1758)",
+    "usageKey": 4362743,
+    "status": "R",
+    "VNName": "Ốc xoắn vách"
+  },
+  {
+    "scientificName": "Carpococcyx renauldi Oustalet, 1896",
+    "usageKey": 2496390,
+    "status": "T",
+    "VNName": "Phướn đất"
+  },
+  {
+    "scientificName": "Corvus torquatus Lesson, 1831",
+    "usageKey": 2482502,
+    "status": "E",
+    "VNName": "Quạ khoang"
+  },
+  {
+    "scientificName": "Lutra sumatrana (Gray, 1865)",
+    "usageKey": 2433752,
+    "status": "V",
+    "VNName": "Rái cá lông mũi"
+  },
+  {
+    "scientificName": "Lutrogale perspicillata (I.Geoffroy Saint-Hilaire, 1826)",
+    "usageKey": 2433686,
+    "status": "V",
+    "VNName": "Rái cá lông mượt"
+  },
+  {
+    "scientificName": "Lutra lutra (Linnaeus, 1758)",
+    "usageKey": 2433753,
+    "status": "V",
+    "VNName": "Rái cá thường"
+  },
+  {
+    "scientificName": "Aonyx cinerea (Illiger, 1815)",
+    "usageKey": 2433897,
+    "status": "V",
+    "VNName": "Rái cá vuốt bé"
+  },
+  {
+    "scientificName": "Bungarus fasciatus (Schneider, 1801)",
+    "usageKey": 5226830,
+    "status": "T",
+    "VNName": "Rắn cạp nong"
+  },
+  {
+    "scientificName": "Naja naja (Linnaeus, 1758)",
+    "usageKey": 2470351,
+    "status": "T",
+    "VNName": "Rắn hổ mang Ấn Độ"
+  },
+  {
+    "scientificName": "Ophiophagus hannah (Cantor, 1836)",
+    "usageKey": 2469850,
+    "status": "E",
+    "VNName": "Rắn hổ mang chúa"
+  },
+  {
+    "scientificName": "Ptyas mucosus Cope, 1861",
+    "usageKey": 5224057,
+    "status": "V",
+    "VNName": "Rắn hổ trâu"
+  },
+  {
+    "scientificName": "Gonyosoma oxycephalum (Boie, 1827)",
+    "usageKey": 2456135,
+    "status": "T",
+    "VNName": "Rắn lai"
+  },
+  {
+    "scientificName": "Azemiops feae Boulenger, 1888",
+    "usageKey": 2443714,
+    "status": "R",
+    "VNName": "Rắn lục đầu bạc"
+  },
+  {
+    "scientificName": "Deinagkistrodon acutus (Günther, 1888)",
+    "usageKey": 2444497,
+    "status": "R",
+    "VNName": "Rắn lục mũi hếch"
+  },
+  {
+    "scientificName": "Trimeresurus monticola Günther, 1864",
+    "usageKey": 10666056,
+    "status": "R",
+    "VNName": "Rắn lục núi"
+  },
+  {
+    "scientificName": "Trimeresurus cornutus Smith, 1930",
+    "usageKey": 2444156,
+    "status": "R",
+    "VNName": "Rắn lục sừng"
+  },
+  {
+    "scientificName": "Ptyas korros (Schlegel, 1837)",
+    "usageKey": 5224050,
+    "status": "T",
+    "VNName": "Rắn ráo"
+  },
+  {
+    "scientificName": "Boiga cynodon (Boie, 1827)",
+    "usageKey": 2457870,
+    "status": "T",
+    "VNName": "Rắn rào răng chó"
+  },
+  {
+    "scientificName": "Elaphe porphyracea Van Denburgh, 1909",
+    "usageKey": 7971169,
+    "status": "T",
+    "VNName": "Rắn sọc đốm đỏ"
+  },
+  {
+    "scientificName": "Elaphe moellendorffii Stejneger, 1907",
+    "usageKey": 2455506,
+    "status": "T",
+    "VNName": "Rắn sọc khoanh"
+  },
+  {
+    "scientificName": "Elaphe prasina Smith, 1930",
+    "usageKey": 2456125,
+    "status": "T",
+    "VNName": "Rắn sọc xanh"
+  },
+  {
+    "scientificName": "Achalinus rufescens Boulenger, 1888",
+    "usageKey": 2458213,
+    "status": "R",
+    "VNName": "Rắn xe điếu nâu"
+  },
+  {
+    "scientificName": "Achalinus spinalis Peters, 1869",
+    "usageKey": 2458217,
+    "status": "R",
+    "VNName": "Rắn xe điếu xám"
+  },
+  {
+    "scientificName": "Physignathus cocincinus Cuvier, 1829",
+    "usageKey": 2465402,
+    "status": "V",
+    "VNName": "Rồng đất"
+  },
+  {
+    "scientificName": "Dermochelys coriacea (Linnaeus, 1766)",
+    "usageKey": 2441866,
+    "status": "E",
+    "VNName": "Rùa da"
+  },
+  {
+    "scientificName": "Geoemyda grandis Gray, 1860",
+    "usageKey": 2443337,
+    "status": "V",
+    "VNName": "Rùa đất lớn"
+  },
+  {
+    "scientificName": "Platysternum megacephalum Boulenger, 1889",
+    "usageKey": 2441885,
+    "status": "R",
+    "VNName": "Rùa đầu to"
+  },
+  {
+    "scientificName": "Cuora trifasciata (Bell, 1825)",
+    "usageKey": 2443499,
+    "status": "E",
+    "VNName": "Rùa hộp ba vạch"
+  },
+  {
+    "scientificName": "Cuora amboinensis (Daudin, 1802)",
+    "usageKey": 2443521,
+    "status": "V",
+    "VNName": "Rùa hộp lưng đen"
+  },
+  {
+    "scientificName": "Cistoclemmys galbinifrons (Bourret, 1940)",
+    "usageKey": 9231315,
+    "status": "V",
+    "VNName": "Rùa hộp trán vàng"
+  },
+  {
+    "scientificName": "Indotestudo elongata (Blyth, 1854)",
+    "usageKey": 8539576,
+    "status": "V",
+    "VNName": "Rùa núi vàng"
+  },
+  {
+    "scientificName": "Manouria impressa (Günther, 1882)",
+    "usageKey": 2441823,
+    "status": "V",
+    "VNName": "Rùa núi viền"
+  },
+  {
+    "scientificName": "Hieremys annandalei Smith, 1916",
+    "usageKey": 2443333,
+    "status": "V",
+    "VNName": "Rùa răng"
+  },
+  {
+    "scientificName": "Halcyon coromanda coromanda",
+    "usageKey": 7191452,
+    "status": "R",
+    "VNName": "Sả hung"
+  },
+  {
+    "scientificName": "Pelargopsis capensis burmanica Sharpe, 1870",
+    "usageKey": 5228421,
+    "status": "T",
+    "VNName": "Sả mỏ rộng"
+  },
+  {
+    "scientificName": "Tachypleus tridentatus (Leach, 1819)",
+    "usageKey": 1010608,
+    "status": "T",
+    "VNName": "Sam đuôi tam giác"
+  },
+  {
+    "scientificName": "Corallium elatius Ridley, 1882",
+    "usageKey": 5185025,
+    "status": "V",
+    "VNName": "San hô đỏ Êlati"
+  },
+  {
+    "scientificName": "Corallium konojoi Kishinouye, 1903",
+    "usageKey": 5185019,
+    "status": "T",
+    "VNName": "San hô đỏ Kô-noi"
+  },
+  {
+    "scientificName": "Corallium japonicum Kishinouyi, 1903",
+    "usageKey": 5185004,
+    "status": "V",
+    "VNName": "San hô đỏ Nhật Bản"
+  },
+  {
+    "scientificName": "Isis hippuris Linnaeus, 1758",
+    "usageKey": 2261730,
+    "status": "R",
+    "VNName": "San hô trúc"
+  },
+  {
+    "scientificName": "Pseudoryx nghetinhensis Dung, Giao, Chinh, Tuoc, Arctander & MacKinnon, 1993",
+    "usageKey": 4262655,
+    "status": "E",
+    "VNName": "Sao la"
+  },
+  {
+    "scientificName": "Carduelis monguilloti (Delacour, 1926)",
+    "usageKey": 2494723,
+    "status": "T",
+    "VNName": "Sẻ thông họng vàng"
+  },
+  {
+    "scientificName": "Grus antigone sharpii Blanford, 1895",
+    "usageKey": 6176780,
+    "status": "V",
+    "VNName": "Sếu cổ trụi"
+  },
+  {
+    "scientificName": "Hylopetes alboniger (Hodgson, 1836)",
+    "usageKey": 2437530,
+    "status": "R",
+    "VNName": "Sóc bay đen trắng"
+  },
+  {
+    "scientificName": "Belomys pearsonii (Gray, 1842)",
+    "usageKey": 2437241,
+    "status": "R",
+    "VNName": "Sóc bay lông tai"
+  },
+  {
+    "scientificName": "Hylopetes phayrei (Blyth, 1859)",
+    "usageKey": 2437528,
+    "status": "R",
+    "VNName": "Sóc bay nhỏ"
+  },
+  {
+    "scientificName": "Petaurista elegans (Müller, 1840)",
+    "usageKey": 5219692,
+    "status": "E",
+    "VNName": "Sóc bay sao"
+  },
+  {
+    "scientificName": "Petaurista petaurista (Pallas, 1766)",
+    "usageKey": 5219691,
+    "status": "R",
+    "VNName": "Sóc bay trâu"
+  },
+  {
+    "scientificName": "Ratufa bicolor condorensis Kloss, 1920",
+    "usageKey": 4264109,
+    "status": "R",
+    "VNName": "Sóc đen Côn Đảo"
+  },
+  {
+    "scientificName": "Callosciurus finlaysonii (Horsfield, 1823)",
+    "usageKey": 2437399,
+    "status": "R",
+    "VNName": "Sóc đỏ"
+  },
+  {
+    "scientificName": "Cuon alpinus (Pallas, 1811)",
+    "usageKey": 2434317,
+    "status": "E",
+    "VNName": "Sói đỏ"
+  },
+  {
+    "scientificName": "Capricornis sumatraensis (Bechstein, 1799)",
+    "usageKey": 4262616,
+    "status": "V",
+    "VNName": "Sơn dương"
+  },
+  {
+    "scientificName": "Gekko gecko (Linnaeus, 1758)",
+    "usageKey": 2447367,
+    "status": "T",
+    "VNName": "Tắc kè"
+  },
+  {
+    "scientificName": "Dicerorhinus sumatrensis (G.Fischer, 1814)",
+    "usageKey": 2440878,
+    "status": "E",
+    "VNName": "Tê giác Sumatra"
+  },
+  {
+    "scientificName": "Rhinoceros sondaicus Desmarest, 1822",
+    "usageKey": 5220112,
+    "status": "E",
+    "VNName": "Tê giác Việt Nam"
+  },
+  {
+    "scientificName": "Manis pentadactyla Linnaeus, 1758",
+    "usageKey": 5219638,
+    "status": "V",
+    "VNName": "Tê tê"
+  },
+  {
+    "scientificName": "Lepus sinensis Gray, 1832",
+    "usageKey": 2436732,
+    "status": "E",
+    "VNName": "Thỏ rừng Trung Hoa"
+  },
+  {
+    "scientificName": "Panulirus ornatus (Fabricius, 1798)",
+    "usageKey": 2221643,
+    "status": "V",
+    "VNName": "Tôm hùm bông"
+  },
+  {
+    "scientificName": "Panulirus homarus (Linnaeus, 1758)",
+    "usageKey": 2221635,
+    "status": "V",
+    "VNName": "Tôm hùm đá"
+  },
+  {
+    "scientificName": "Panulirus longipes (A.Milne-Edwards, 1868)",
+    "usageKey": 2221636,
+    "status": "V",
+    "VNName": "Tôm hùm đỏ"
+  },
+  {
+    "scientificName": "Panulirus versicolor (Latreille, 1804)",
+    "usageKey": 2221652,
+    "status": "V",
+    "VNName": "Tôm hùm sen"
+  },
+  {
+    "scientificName": "Cristaria herculea Middendorff, 1847",
+    "usageKey": 11098891,
+    "status": "V",
+    "VNName": "Trai cánh dày"
+  },
+  {
+    "scientificName": null,
+    "usageKey": 0,
+    "status": "V",
+    "VNName": "Trai cánh mỏng"
+  },
+  {
+    "scientificName": "Lamprotula liedtkei Rolle, 1904",
+    "usageKey": 7592144,
+    "status": "R",
+    "VNName": "Trai cóc bầu dục"
+  },
+  {
+    "scientificName": "Gibbosula crassa (Wood, 1815)",
+    "usageKey": 9293427,
+    "status": "R",
+    "VNName": "Trai cóc dày"
+  },
+  {
+    "scientificName": "Lamprotula blaisei (Dautzenberg & Fischer, 1905)",
+    "usageKey": 7834045,
+    "status": "R",
+    "VNName": "Trai cóc hình lá"
+  },
+  {
+    "scientificName": "Lamprotula leaii (Gray, 1833)",
+    "usageKey": 7904159,
+    "status": "V",
+    "VNName": "Trai cóc hình tai"
+  },
+  {
+    "scientificName": "Contradens semmelincki fultoni Haas, 1930",
+    "usageKey": 9096413,
+    "status": "R",
+    "VNName": "Trai cóc Mẫu Sơn"
+  },
+  {
+    "scientificName": "Cuneopsis demangei Haas, 1929",
+    "usageKey": 7488370,
+    "status": "K",
+    "VNName": "Trai cóc nhẵn"
+  },
+  {
+    "scientificName": "Lamprotula nodulosa Wood, 1815",
+    "usageKey": 7983632,
+    "status": "R",
+    "VNName": "Trai cóc tròn"
+  },
+  {
+    "scientificName": "Protunio messageri (Bavay & Dautzenberg, 1901)",
+    "usageKey": 8299546,
+    "status": "R",
+    "VNName": "Trai cóc vuông"
+  },
+  {
+    "scientificName": "Sinohyriopsis cumingii (Lea, 1852)",
+    "usageKey": 9666001,
+    "status": "V",
+    "VNName": "Trai điệp"
+  },
+  {
+    "scientificName": "Pinctada margaritifera (Linnaeus, 1758)",
+    "usageKey": 2285337,
+    "status": "T",
+    "VNName": "Trai ngọc môi đen"
+  },
+  {
+    "scientificName": "Pinctada maxima (Jameson, 1901)",
+    "usageKey": 4592299,
+    "status": "T",
+    "VNName": "Trai ngọc môi vàng"
+  },
+  {
+    "scientificName": "Pilsbryoconcha suilla von Martens, 1902",
+    "usageKey": 8420867,
+    "status": "K",
+    "VNName": "Trai Suilla"
+  },
+  {
+    "scientificName": "Hippopus hippopus (Linnaeus, 1758)",
+    "usageKey": 5729353,
+    "status": "R",
+    "VNName": "Trai tai gấu"
+  },
+  {
+    "scientificName": "Tridacna gigas (Linnaeus, 1758)",
+    "usageKey": 4372619,
+    "status": "R",
+    "VNName": "Trai tai tượng khổng lồ"
+  },
+  {
+    "scientificName": "Chamberlainia hainesiana (Lea, 1856)",
+    "usageKey": 7541795,
+    "status": "V",
+    "VNName": "Trai vỏ nâu"
+  },
+  {
+    "scientificName": "Python curtus Schlegel, 1872",
+    "usageKey": 2465382,
+    "status": "E",
+    "VNName": "Trăn cộc"
+  },
+  {
+    "scientificName": "Python molurus (Linnaeus, 1758)",
+    "usageKey": 2465369,
+    "status": "V",
+    "VNName": "Trăn đất"
+  },
+  {
+    "scientificName": "Python reticulatus Schneider, 1801",
+    "usageKey": 2465355,
+    "status": "V",
+    "VNName": "Trăn gấm"
+  },
+  {
+    "scientificName": "Bubalus bubalis (Linnaeus, 1758)",
+    "usageKey": 7422937,
+    "status": "E",
+    "VNName": "Trâu nước hoang dã"
+  },
+  {
+    "scientificName": "Sitta formosa Blyth, 1843",
+    "usageKey": 2484903,
+    "status": "T",
+    "VNName": "Trèo cây lưng đen"
+  },
+  {
+    "scientificName": "Sitta solangiae (Delacour & Jabouille, 1930)",
+    "usageKey": 2484891,
+    "status": "T",
+    "VNName": "Trèo cây mỏ vàng"
+  },
+  {
+    "scientificName": "Phasianus colchicus Linnaeus, 1758",
+    "usageKey": 9752149,
+    "status": "R",
+    "VNName": "Trĩ đỏ khoang cổ"
+  },
+  {
+    "scientificName": "Rheinartia ocellata ocellata",
+    "usageKey": 11066260,
+    "status": "T",
+    "VNName": "Trĩ sao"
+  },
+  {
+    "scientificName": "Mustela nivalis Linnaeus, 1766",
+    "usageKey": 5218987,
+    "status": "E",
+    "VNName": "Triết bụng trắng"
+  },
+  {
+    "scientificName": "Lanceolaria fruhstorferi (Bavay & Dautzenberg, 1900)",
+    "usageKey": 8550126,
+    "status": "R",
+    "VNName": "Trùng trục có khía"
+  },
+  {
+    "scientificName": "Gorsachius magnificus (Ogilvie-Grant, 1899)",
+    "usageKey": 2480838,
+    "status": "R",
+    "VNName": "Vạc hoa"
+  },
+  {
+    "scientificName": "Perna viridis (Linnaeus, 1758)",
+    "usageKey": 5729682,
+    "status": "T",
+    "VNName": "Vẹm vỏ xanh"
+  },
+  {
+    "scientificName": "Caretta olivacea Rüppell, 1835",
+    "usageKey": 2442159,
+    "status": "E",
+    "VNName": "Vích"
+  },
+  {
+    "scientificName": "Aythya baeri (Radde, 1863)",
+    "usageKey": 2498260,
+    "status": "R",
+    "VNName": "Vịt đầu đen"
+  },
+  {
+    "scientificName": "Mergus squamatus Gould, 1864",
+    "usageKey": 5232483,
+    "status": "E",
+    "VNName": "Vịt mỏ ngọn"
+  },
+  {
+    "scientificName": "Elephas maximus Linnaeus, 1758",
+    "usageKey": 5219461,
+    "status": "V",
+    "VNName": "Voi Việt Nam"
+  },
+  {
+    "scientificName": "Trachypithecus francoisi (de Pousargues, 1898)",
+    "usageKey": 2436539,
+    "status": "E",
+    "VNName": "Voọc đầu trắng"
+  },
+  {
+    "scientificName": "Trachypithecus francoisi francoisi",
+    "usageKey": 5786364,
+    "status": "V",
+    "VNName": "Voọc đen má trắng"
+  },
+  {
+    "scientificName": "Trachypithecus francoisi hatinhesis",
+    "usageKey": 5786363,
+    "status": "E",
+    "VNName": "Voọc Hà Tĩnh"
+  },
+  {
+    "scientificName": "Trachypithecus francoisi (de Pousargues, 1898)",
+    "usageKey": 2436539,
+    "status": "E",
+    "VNName": "Voọc mông trắng"
+  },
+  {
+    "scientificName": "Rhinopithecus avunculus Dollman, 1912",
+    "usageKey": 4267009,
+    "status": "E",
+    "VNName": "Voọc mũi hếch Bắc Bộ"
+  },
+  {
+    "scientificName": "Pygathrix nemaeus (Linnaeus, 1771)",
+    "usageKey": 2436529,
+    "status": "V",
+    "VNName": "Voọc ngũ sắc"
+  },
+  {
+    "scientificName": "Pygathrix nemaeus (Linnaeus, 1771)",
+    "usageKey": 2436529,
+    "status": "E",
+    "VNName": "Voọc vá"
+  },
+  {
+    "scientificName": "Trachypithecus phayrei crepuscula (Elliot, 1909)",
+    "usageKey": 4267093,
+    "status": "V",
+    "VNName": "Voọc xám Đông Dương"
+  },
+  {
+    "scientificName": "Hylobates concolor leucogenys (Ogilby, 1840)",
+    "usageKey": 9287895,
+    "status": "E",
+    "VNName": "Vượn đen bạc má"
+  },
+  {
+    "scientificName": "Hylobates concolor concolor",
+    "usageKey": 8692542,
+    "status": "E",
+    "VNName": "Vượn đen tuyền"
+  },
+  {
+    "scientificName": "Hylobates lar (Linnaeus, 1771)",
+    "usageKey": 5219553,
+    "status": "E",
+    "VNName": "Vượn tay trắng"
+  }
+]

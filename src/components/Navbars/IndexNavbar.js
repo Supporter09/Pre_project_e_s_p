@@ -50,8 +50,8 @@ function IndexNavbar() {
         <div className="navbar-translate">
           <NavbarBrand
             data-placement="bottom"
-            href="/index"
-            title="Coded by Creative Tim"
+            href="/landing-page"
+            title=""
           >
             E.S.P
           </NavbarBrand>
@@ -73,6 +73,16 @@ function IndexNavbar() {
           isOpen={navbarCollapse}
         >
           <Nav navbar>
+            <NavItem>
+              <NavLink
+                data-placement="bottom"
+                href="/animal-map"
+                title="Follow us on Twitter"
+              >
+                <i className="nc-icon nc-world-2" style={{fontSize:"18px"}}/>
+                <p className="d-lg-none">Animal Map</p>
+              </NavLink>
+            </NavItem>
             <NavItem>
               <NavLink
                 data-placement="bottom"

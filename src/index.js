@@ -29,7 +29,7 @@ import E_S_P_C_map from "views/examples/E_S_P_C_map.js";
 
 
 // others 
-import "../src/assets/js/FindingAnimal.js"
+// import "../src/assets/js/FindingAnimal.js"
 
 ReactDOM.render(
   <BrowserRouter>
@@ -59,7 +59,7 @@ ReactDOM.render(
       path="/animal-map"
       render={(props) => <E_S_P_C_map {...props} />}
       />
-      <Redirect to="/index" />
+      <Redirect to="/landing-page" />
     </Switch>
   </BrowserRouter>,
   document.getElementById("root")

@@ -70,19 +70,6 @@ export default class SpeciesCardDeck extends React.Component {
     }
     renderSpeciesCard(search_data){
       var re_cards = []
-      
-      // // console.log(datas);
-      // datas.forEach(data=>{
-      //   cards.push(
-      //     <SpeciesCard scientificName={data.scientificName} VNName={data.VNName} status={data.status}/>
-      //   )
-      // })
-      // console.log(cards)
-      // this.setState({decks:cards})
-      
-      // this.setState({
-      //   decks: cards
-      // })
       if(search_data!=""){
         
         for (let index = 0; index < datas.length; index++) {

@@ -1,0 +1,35 @@
+function FindSpeciesInArea()
+{
+    
+    //Cho toạ độ vào đây, giữ nguyên tham số cuối
+    var point = WorldToTilePos(105.794779, 20.962152, 14);
+
+    //Lấy dữ liệu loài
+    var species = JSON.parse("data.json");
+
+    //Các loài sẽ xuất hiện
+    var occurrence = [];
+    var counter = 0;
+    
+    foreach (s in species)
+    {
+        if (s.usageKey == 0) continue;
+        for (var i = 0; i < 9; i++)
+            {                     
+                if (Directory.Exists("./mapData/{s.usageKey}/14/"+point.X + tiepGiap[i, 0]/point.Y + tiepGiap[i, 1]+".mvt"))
+                {
+                    occurrence.Add(s);
+                    break;
+                }
+            }
+        } 
+    }
+}
+function WorldToTilePos(lon, lat, zoom){
+    var x;
+    var y;
+    x = (lon + 180.0) / 360.0 * (1 << zoom);
+    y = (1.0 - Math.log(Math.tan(lat * Math.PI / 180.0) +
+    1.0 / Math.cos(lat * Math.PI / 180.0)) / Math.PI) / 2.0 * (1 << zoom);
+    return {X:x,Y:y};
+}

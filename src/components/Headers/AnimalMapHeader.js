@@ -52,8 +52,8 @@ function AnimalMapHeader() {
         <div className="filter" />
         <Container>
           <div className="motto text-center">
-            <h1>The beautiful thing about learning is nobody can take it away from you.</h1>
-            <h3>Finding animals data via one click.</h3>
+            <h1>FIND, READ and PROTECT</h1>
+            <h3>Finding animals around you</h3>
             <br />
             
             <Button className="btn-round" color="neutral" type="button" outline>
