@@ -82,7 +82,7 @@ export default class SpeciesCardDeck extends React.Component {
             this.setState({decks: re_cards})
           }else{
             re_cards.push(
-                <Col md={{ size: 10, offset: 1 }}>
+                <Col className="ml-auto mr-auto" md="10">
                 <h2 className="title" style={{color:"#e63946"}}>There are no endangered species around you<i aria-hidden={true} className="nc-icon nc-alert-circle-i" /></h2>
                 
                 </Col>

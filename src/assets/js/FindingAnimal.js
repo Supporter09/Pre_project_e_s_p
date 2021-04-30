@@ -47,13 +47,12 @@ export default function findSpeciesInArea(posX,posY)
         //         return data
         //     }
         // })
-        $.ajax({
+    $.ajax({
             type:"GET",
             dataType: "json",
             url: 'https://projectespapi.herokuapp.com/checkExistFile?url='+url,
             success: function(data){
-                var buf1=data;
-                console.log(data);
+                // console.log(data);
                 return data
             }
         })
