@@ -52,7 +52,8 @@ export default class SpeciesCardDeck extends React.Component {
         // console.log("Run showPos")
         // x.innerHTML = "Latitude: " + position.coords.latitude +
         // "<br>Longitude: " + position.coords.longitude;
-        let occurrence_animal = findSpeciesInArea(position.coords.longitude,position.coords.longitude)
+        let occurrence_animal = findSpeciesInArea(position.coords.longitude,position.coords.latitude)
+        console.log("occurrence_animal: ",occurrence_animal)
         var re_cards = []
 
         if(occurrence_animal.length!=0){
@@ -80,8 +81,14 @@ export default class SpeciesCardDeck extends React.Component {
             this.setState({decks: []})
             this.setState({decks: re_cards})
           }else{
+            re_cards.push(
+                <Col md={{ size: 10, offset: 1 }}>
+                <h2 className="title" style={{color:"#e63946"}}>There are no endangered species around you<i aria-hidden={true} className="nc-icon nc-alert-circle-i" /></h2>
+                
+                </Col>
+            )
             this.setState({decks: []})
-            this.setState({decks: cards})
+            this.setState({decks: re_cards})
           }
         // console.log(occurrence_animal)
 
@@ -96,7 +103,7 @@ export default class SpeciesCardDeck extends React.Component {
         <>
           <Row>
             <Col className="ml-auto mr-auto" md="10">
-              <h2 className="title">Find animals species around you<i aria-hidden={true} className="nc-icon nc-zoom-split" /></h2>
+              <h2 className="title" >Find animals species around you<i aria-hidden={true} className="nc-icon nc-zoom-split"/></h2>
               <button onClick={()=>{this.handleOnclick()}}>CLICK TO CHECK </button>
             </Col>
             
