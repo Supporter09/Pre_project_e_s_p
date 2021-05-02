@@ -77,7 +77,7 @@ function IndexNavbar() {
               <NavLink
                 data-placement="bottom"
                 href="/animal-map"
-                title="Follow us on Twitter"
+                title="Animal Map"
               >
                 <i className="nc-icon nc-world-2" style={{fontSize:"18px"}}/>
                 <p className="d-lg-none">Animal Map</p>
@@ -87,7 +87,7 @@ function IndexNavbar() {
               <NavLink
                 data-placement="bottom"
                 href="/animals-dictionary"
-                title="Follow us on Twitter"
+                title="Animal Dictionary"
               >
                 <i className="nc-icon nc-book-bookmark" style={{fontSize:"18px"}}/>
                 <p className="d-lg-none">Animal Dictionary</p>
