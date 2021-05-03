@@ -34,7 +34,7 @@ export default class SpeciesCard extends React.Component {
         <CardTitle tag="h5"><b>Vietnamese Name: </b> {this.props.VNName}</CardTitle>
         <CardSubtitle tag="h6" className="mb-2 text-muted">Status: {this.props.status}</CardSubtitle>
         {/* <CardText>This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</CardText> */}
-        <Button>Button</Button>
+        {/* <Button>Button</Button> */}
     </CardBody>
     </Card>
     </Col>
