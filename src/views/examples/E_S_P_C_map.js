@@ -46,7 +46,7 @@ function E_S_P_C_map() {
       <ExamplesNavbar />
       <AnimalMapHeader />
       
-      <div className="main">
+      <div className="main" id="section1">
         <div className="section text-center">
           <Container>
           <br/>

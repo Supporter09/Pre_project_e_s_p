@@ -56,9 +56,12 @@ function DictionaryHeader() {
             <h3>Finding animals data via one click.</h3>
             <br />
             
-            <Button className="btn-round" color="neutral" type="button" outline>
-              Get Started
-            </Button>
+            <a href={"#section1"}>
+              <Button className="btn-round" color="neutral" type="button" outline>
+                Get Started
+              </Button>              
+            </a>
+
           </div>
         </Container>
       </div>

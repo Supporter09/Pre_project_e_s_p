@@ -43,14 +43,14 @@ function AnimalDictionary() {
       <DictionaryHeader />
       {/* <SectionCarousel /> */}
       
-      <div className="main">
+      <div className="main" id="section1">
         <div className="section text-center">
           <Container>
           <SpeciesCardDeck />
           </Container>
         </div>
         
-        <div className="section landing-section">
+        <div className="section landing-section" >
           <Container>
             <Row>
               <Col className="ml-auto mr-auto" md="8">

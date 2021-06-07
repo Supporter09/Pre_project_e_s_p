@@ -37,7 +37,7 @@ function LandingPage() {
       <ExamplesNavbar />
       <LandingPageHeader />
       <div className="main">
-        <div className="section text-center" style={{display:"flex"}}>
+        <div className="section text-center" style={{display:"flex"}} id="section1">
           <Container >
             {/* <Row>
               <Col className="ml-auto mr-auto" md="8">
@@ -62,8 +62,8 @@ function LandingPage() {
             </Row> */}
             <br />
             <br />
-            <Row style={{justifyContent:"space-around"}}>
-              <Col md="3">
+            <Row style={{justifyContent:"space-around"}}  >
+              <Col md="3" >
                 <div className="info">
                   <div className="icon icon-info">
                     <i className="nc-icon nc-single-copy-04 " style={{fontSize:70}} />
@@ -75,7 +75,8 @@ function LandingPage() {
                     </p>
                     <Button className="btn-link" color="info" href="/animals-dictionary">
                       See more
-                    </Button>
+                    </Button>                      
+
                   </div>
                 </div>
               </Col>

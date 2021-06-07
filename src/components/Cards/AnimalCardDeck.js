@@ -104,7 +104,7 @@ export default class SpeciesCardDeck extends React.Component {
           <Row>
             <Col className="ml-auto mr-auto" md="10">
               <h2 className="title" >Find animals species around you<i aria-hidden={true} className="nc-icon nc-zoom-split"/></h2>
-              <button onClick={()=>{this.handleOnclick()}}>CLICK TO CHECK </button>
+              <button className="btn-round" color="neutral" type="button" outline onClick={()=>{this.handleOnclick()}}>CLICK TO CHECK </button>
             </Col>
             
           </Row>
